@@ -1,0 +1,947 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="pt">FX HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Sony HD">
+    <display-name lang="pt">Sony HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20191017014500 -0300" stop="20191017020700 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191017020700 -0300" stop="20191017022900 -0300" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191017022900 -0300" stop="20191017025100 -0300" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191017025100 -0300" stop="20191017052700 -0300" channel="FX HD">
+    <title lang="pt">Sangue Negro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191017052700 -0300" stop="20191017070000 -0300" channel="FX HD">
+    <title lang="pt">Aposta Máxima</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191017070000 -0300" stop="20191017073000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191017073000 -0300" stop="20191017080000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191017080000 -0300" stop="20191017083000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191017083000 -0300" stop="20191017090000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191017090000 -0300" stop="20191017100000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191017100000 -0300" stop="20191017120000 -0300" channel="FX HD">
+    <title lang="pt">Repo Men: O Resgate de Órgãos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191017120000 -0300" stop="20191017122500 -0300" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191017122500 -0300" stop="20191017141300 -0300" channel="FX HD">
+    <title lang="pt">O Pacto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191017141300 -0300" stop="20191017160100 -0300" channel="FX HD">
+    <title lang="pt">Do Outro Lado da Porta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191017160100 -0300" stop="20191017164600 -0300" channel="FX HD">
+    <title lang="pt">American Horror Story: 1984</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191017164600 -0300" stop="20191017183400 -0300" channel="FX HD">
+    <title lang="pt">Bem-Vindo à Selva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191017183400 -0300" stop="20191017202900 -0300" channel="FX HD">
+    <title lang="pt">Loucas pra Casar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191017202900 -0300" stop="20191017221000 -0300" channel="FX HD">
+    <title lang="pt">Legião</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191017221000 -0300" stop="20191018000000 -0300" channel="FX HD">
+    <title lang="pt">A Múmia</title>
+    <sub-title lang="pt">Tumba do Imperador Dragão</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191018000000 -0300" stop="20191018004100 -0300" channel="FX HD">
+    <title lang="pt">American Horror Story: 1984</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191018004100 -0300" stop="20191018031000 -0300" channel="FX HD">
+    <title lang="pt">Bad Boys II</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191018031000 -0300" stop="20191018033200 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191018033200 -0300" stop="20191018035400 -0300" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191018035400 -0300" stop="20191018041700 -0300" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191018041700 -0300" stop="20191018055500 -0300" channel="FX HD">
+    <title lang="pt">Palavras Mortais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191018055500 -0300" stop="20191018061700 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191018061700 -0300" stop="20191018063800 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191018063800 -0300" stop="20191018070000 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191018070000 -0300" stop="20191018080000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191018080000 -0300" stop="20191018083000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191018083000 -0300" stop="20191018090000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191018090000 -0300" stop="20191018093000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191018093000 -0300" stop="20191018100000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191018100000 -0300" stop="20191018113500 -0300" channel="FX HD">
+    <title lang="pt">Roubo Sem Saída</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191018113500 -0300" stop="20191018120000 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191018120000 -0300" stop="20191018122500 -0300" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191018122500 -0300" stop="20191018125000 -0300" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191018125000 -0300" stop="20191018141500 -0300" channel="FX HD">
+    <title lang="pt">Voo Noturno</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191018141500 -0300" stop="20191018161000 -0300" channel="FX HD">
+    <title lang="pt">O Voo da Fênix</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191018161000 -0300" stop="20191018181000 -0300" channel="FX HD">
+    <title lang="pt">Lágrimas do Sol</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191018181000 -0300" stop="20191018203000 -0300" channel="FX HD">
+    <title lang="pt">Planeta Dos Macacos: A Guerra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191018203000 -0300" stop="20191018220000 -0300" channel="FX HD">
+    <title lang="pt">Carga Explosiva 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191018220000 -0300" stop="20191019001500 -0300" channel="FX HD">
+    <title lang="pt">Duro de Matar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019001500 -0300" stop="20191019022500 -0300" channel="FX HD">
+    <title lang="pt">Duro de Matar 4.0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019022500 -0300" stop="20191019025000 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019025000 -0300" stop="20191019031500 -0300" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019031500 -0300" stop="20191019034000 -0300" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019034000 -0300" stop="20191019050000 -0300" channel="FX HD">
+    <title lang="pt">Voo Noturno</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019050000 -0300" stop="20191019070000 -0300" channel="FX HD">
+    <title lang="pt">Quebrando a Banca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019070000 -0300" stop="20191019073000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019073000 -0300" stop="20191019080000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019080000 -0300" stop="20191019083000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019083000 -0300" stop="20191019090000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019090000 -0300" stop="20191019093000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019093000 -0300" stop="20191019100000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019100000 -0300" stop="20191019103000 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019103000 -0300" stop="20191019110000 -0300" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019110000 -0300" stop="20191019113000 -0300" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019113000 -0300" stop="20191019115500 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019115500 -0300" stop="20191019133000 -0300" channel="FX HD">
+    <title lang="pt">Aposta Máxima</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019133000 -0300" stop="20191019154500 -0300" channel="FX HD">
+    <title lang="pt">Selvagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019154500 -0300" stop="20191019181500 -0300" channel="FX HD">
+    <title lang="pt">Bad Boys II</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019181500 -0300" stop="20191019200000 -0300" channel="FX HD">
+    <title lang="pt">A Múmia</title>
+    <sub-title lang="pt">Tumba do Imperador Dragão</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019200000 -0300" stop="20191019220000 -0300" channel="FX HD">
+    <title lang="pt">Baywatch: S.O.S. Malibu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019220000 -0300" stop="20191019235000 -0300" channel="FX HD">
+    <title lang="pt">Deadpool</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019235000 -0300" stop="20191020014000 -0300" channel="FX HD">
+    <title lang="pt">Anjos da Lei 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191020014000 -0300" stop="20191020020500 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191020020500 -0300" stop="20191020023000 -0300" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191020023000 -0300" stop="20191020025500 -0300" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191020025500 -0300" stop="20191020051500 -0300" channel="FX HD">
+    <title lang="pt">Clube da Luta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191020051500 -0300" stop="20191020070000 -0300" channel="FX HD">
+    <title lang="pt">Sr. Sherlock Holmes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191020070000 -0300" stop="20191020073000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191020073000 -0300" stop="20191020080000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191020080000 -0300" stop="20191020083000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191020083000 -0300" stop="20191020090000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191020090000 -0300" stop="20191020093000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191020093000 -0300" stop="20191020100000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191020100000 -0300" stop="20191020105000 -0300" channel="FX HD">
+    <title lang="pt">American Horror Story: 1984</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191020105000 -0300" stop="20191020112000 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191020112000 -0300" stop="20191020114500 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191020114500 -0300" stop="20191020131000 -0300" channel="FX HD">
+    <title lang="pt">Voo Noturno</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191020131000 -0300" stop="20191020145000 -0300" channel="FX HD">
+    <title lang="pt">Jogos Letais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191020145000 -0300" stop="20191020163000 -0300" channel="FX HD">
+    <title lang="pt">Legião</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191020163000 -0300" stop="20191020190000 -0300" channel="FX HD">
+    <title lang="pt">Chamas da Vingança</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191020190000 -0300" stop="20191020220000 -0300" channel="FX HD">
+    <title lang="pt">Coração Valente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191020220000 -0300" stop="20191021002000 -0300" channel="FX HD">
+    <title lang="pt">Cruzada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191021002000 -0300" stop="20191021021500 -0300" channel="FX HD">
+    <title lang="pt">Lágrimas do Sol</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191021021500 -0300" stop="20191021024000 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191021024000 -0300" stop="20191021030500 -0300" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191021030500 -0300" stop="20191021033000 -0300" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191021033000 -0300" stop="20191021051500 -0300" channel="FX HD">
+    <title lang="pt">Terra Violenta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191021051500 -0300" stop="20191021070000 -0300" channel="FX HD">
+    <title lang="pt">Snatch</title>
+    <sub-title lang="pt">Porcos e Diamantes</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191021070000 -0300" stop="20191021073000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191021073000 -0300" stop="20191021080000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191021080000 -0300" stop="20191021083000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191021083000 -0300" stop="20191021090000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191021090000 -0300" stop="20191021093000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191021093000 -0300" stop="20191021100000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191021100000 -0300" stop="20191021122500 -0300" channel="FX HD">
+    <title lang="pt">Clube da Luta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191021122500 -0300" stop="20191021125000 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191021125000 -0300" stop="20191021131500 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191021131500 -0300" stop="20191021134000 -0300" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191021134000 -0300" stop="20191021140500 -0300" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191021140500 -0300" stop="20191021160500 -0300" channel="FX HD">
+    <title lang="pt">Star Trek: Sem Fronteiras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191021160500 -0300" stop="20191021181000 -0300" channel="FX HD">
+    <title lang="pt">Prometheus</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191021181000 -0300" stop="20191021202500 -0300" channel="FX HD">
+    <title lang="pt">Duro de Matar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191021202500 -0300" stop="20191021220000 -0300" channel="FX HD">
+    <title lang="pt">Perigo por Encomenda</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191021220000 -0300" stop="20191021234000 -0300" channel="FX HD">
+    <title lang="pt">Vovó...Zona 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191021234000 -0300" stop="20191022014000 -0300" channel="FX HD">
+    <title lang="pt">Baywatch: S.O.S. Malibu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191022014000 -0300" stop="20191022020500 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191022020500 -0300" stop="20191022023000 -0300" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191022023000 -0300" stop="20191022025500 -0300" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191022025500 -0300" stop="20191022044500 -0300" channel="FX HD">
+    <title lang="pt">Uma Repórter em Apuros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191022044500 -0300" stop="20191022064000 -0300" channel="FX HD">
+    <title lang="pt">Star Trek: Sem Fronteiras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191022064000 -0300" stop="20191022070000 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191022070000 -0300" stop="20191022073000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191022073000 -0300" stop="20191022080000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191022080000 -0300" stop="20191022083000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191022083000 -0300" stop="20191022090000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191022090000 -0300" stop="20191022093000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191022093000 -0300" stop="20191022100000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191022100000 -0300" stop="20191022114000 -0300" channel="FX HD">
+    <title lang="pt">Do Outro Lado da Porta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191022114000 -0300" stop="20191022120500 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191022120500 -0300" stop="20191022123000 -0300" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191022123000 -0300" stop="20191022130000 -0300" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191022130000 -0300" stop="20191022143000 -0300" channel="FX HD">
+    <title lang="pt">American Pie</title>
+    <sub-title lang="pt">Caindo em Tentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191022143000 -0300" stop="20191022162000 -0300" channel="FX HD">
+    <title lang="pt">Uma Repórter em Apuros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191022162000 -0300" stop="20191022182000 -0300" channel="FX HD">
+    <title lang="pt">Baywatch: S.O.S. Malibu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191022182000 -0300" stop="20191022201500 -0300" channel="FX HD">
+    <title lang="pt">Loucas pra Casar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191022201500 -0300" stop="20191022220000 -0300" channel="FX HD">
+    <title lang="pt">Quebrando Regras 3</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191022220000 -0300" stop="20191023001000 -0300" channel="FX HD">
+    <title lang="pt">Duro de Matar 4.0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191023001000 -0300" stop="20191023014500 -0300" channel="FX HD">
+    <title lang="pt">Legião</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191023014500 -0300" stop="20191023021000 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191023021000 -0300" stop="20191023023500 -0300" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191023023500 -0300" stop="20191023030000 -0300" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191023030000 -0300" stop="20191023035000 -0300" channel="FX HD">
+    <title lang="pt">American Horror Story: 1984</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191023035000 -0300" stop="20191023053500 -0300" channel="FX HD">
+    <title lang="pt">Sr. Sherlock Holmes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191023053500 -0300" stop="20191023070000 -0300" channel="FX HD">
+    <title lang="pt">Atividade Paranormal 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191023070000 -0300" stop="20191023073000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191023073000 -0300" stop="20191023080000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191023080000 -0300" stop="20191023083000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191023083000 -0300" stop="20191023090000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191023090000 -0300" stop="20191023093000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191023093000 -0300" stop="20191023100000 -0300" channel="FX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191023100000 -0300" stop="20191023120000 -0300" channel="FX HD">
+    <title lang="pt">Star Trek: Sem Fronteiras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191023120000 -0300" stop="20191023122500 -0300" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191023122500 -0300" stop="20191023125000 -0300" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191023125000 -0300" stop="20191023131500 -0300" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191023131500 -0300" stop="20191023152000 -0300" channel="FX HD">
+    <title lang="pt">Quebrando a Banca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191023152000 -0300" stop="20191023171500 -0300" channel="FX HD">
+    <title lang="pt">O Voo da Fênix</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191023171500 -0300" stop="20191023201500 -0300" channel="FX HD">
+    <title lang="pt">Coração Valente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191023201500 -0300" stop="20191023220000 -0300" channel="FX HD">
+    <title lang="pt">Xxx 2: Estado de Emergência</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191023220000 -0300" stop="20191023233500 -0300" channel="FX HD">
+    <title lang="pt">Carga Explosiva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191023233500 -0300" stop="20191024010000 -0300" channel="FX HD">
+    <title lang="pt">Carga Explosiva 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
